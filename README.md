@@ -35,7 +35,7 @@ NETWORK_INTERFACE =          # Network interface name (leave blank for selection
 
 `ADDITONAL_BPF_FILTER` allows you to set more [BPF filters](https://www.ibm.com/docs/en/qsip/7.4?topic=queries-berkeley-packet-filters).
 
-`NETWORK_INTERFACE` uses the Npcap network device name. Leave this blank to have the app prompt you to select a network device (by friendly Windows name + Npcap name).
+`NETWORK_INTERFACE` uses the Npcap network device name. Leave this blank to have the app prompt you to select a network device (by friendly Windows name + Npcap name) that will be saved to config.
 
 ## Screenshots
 
