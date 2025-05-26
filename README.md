@@ -1,6 +1,6 @@
 # Windows Firewall Spam Blocker
 
-A GUI application that will reveal the first detected IP address that sends/receives a user-defined number of network packets for a user-defined protocol and port number. In addition, it gives the option to block the IP address in Windows Firewall by setting both inbound and outbound traffic rules.
+A GUI application that will reveal the first detected remote IP address that sends/receives a user-defined number of network packets for a user-defined protocol and port number. In addition, it gives the option to block the IP address in Windows Firewall by setting both inbound and outbound traffic rules.
 
 ## Limitations
 
